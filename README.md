@@ -5,13 +5,15 @@
 > Some of them are completed, others not, but no one will work for sure!
 --------------------
 <h2> GinTronic</h2>  
+
+> Project for a cocktail machine that spills your favourite cocktail, if you configure it.
 <details>
  <summary> Details
 </summary>
 
 
 
-> Project for a cocktail machine that can spill cocktail.
+
 
 * The list of cocktail is stored in flash memory of pico.
 
